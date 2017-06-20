@@ -33,3 +33,7 @@ node_modules
 /src/main/resources/static/dist/bundle.js
 /.idea/
 /node_modules/
+/mvnw.cmd
+/.mvn/
+/mvnw
+/flight-system.iml
