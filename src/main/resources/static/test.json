@@ -1,0 +1,15 @@
+{
+  delivery_line_1: "15601 Foliage Ave",
+  last_line: "Saint Louis MO 63132",
+  components: {
+    city_name: "Saint Louis",
+    state_abbreviation: "MO",
+    zipcode: "63132",
+    secondary_number: null
+  },
+  analysis: {
+    dpv_match_code: null,
+    dpv_footnotes: "A1",
+    footnotes: "F#"
+  }
+}
